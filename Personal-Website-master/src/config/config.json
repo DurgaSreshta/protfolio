@@ -1,0 +1,74 @@
+{
+  "name": "Durga Sreshta Kamani",
+  "email": "kamani.d@northeastern.edu",
+  "description": "Aspiring Software Developer | Masters in Information Systems at Northeastern University",
+  "resumeUrl": "https://www.linkedin.com/in/durga-sreshta-kamani-b64733227/",
+  "ga": "",
+  "drawerButtons": [
+    {
+      "iconName": "linkedIn",
+      "svgPath": "M22.7189 20.9902H18.77V15.2747C18.77 13.9117 18.74 12.1577 16.7122 12.1577C14.6533 12.1577 14.3389 13.6408 14.3389 15.1741V20.9902H10.39V9.23684H14.1833V10.8389H14.2344C14.7644 9.91524 16.0533 8.94024 17.9789 8.94024C21.98 8.94024 22.72 11.3726 22.72 14.5388V20.9902H22.7189ZM5.93 7.62861C4.65889 7.62861 3.63778 6.67824 3.63778 5.50926C3.63778 4.34132 4.66 3.39197 5.93 3.39197C7.19667 3.39197 8.22333 4.34132 8.22333 5.50926C8.22333 6.67824 7.19556 7.62861 5.93 7.62861ZM7.91 20.9902H3.95V9.23684H7.91V20.9902ZM24.6944 0H1.96778C0.88 0 0 0.794368 0 1.7745V22.8571C0 23.8382 0.88 24.6316 1.96778 24.6316H24.6911C25.7778 24.6316 26.6667 23.8382 26.6667 22.8571V1.7745C26.6667 0.794368 25.7778 0 24.6911 0H24.6944Z",
+      "link": "https://www.linkedin.com/in/durga-sreshta-kamani-b64733227/"
+    }
+  ],
+  "favourite": [
+    
+    "Learning new technologies",
+    "Building impactful projects",
+    "Problem-solving",
+    "Traveling"
+  ],
+  "aboutText": "Hi! I'm pursuing a Masters in Information Systems at Northeastern University, with a keen interest in software development and cloud computing. I have hands-on experience building scalable systems, designing user-friendly applications, and working with cutting-edge technologies. I'm a proactive learner, passionate about leveraging technology to solve real-world problems.",
+  "aboutTechnologies": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "AWS",
+    "GCP",
+    "SQL"
+  ],
+  "aboutPictureURL": "",
+  "experience": [
+    {
+      "name": "Kshemin Labs",
+      "position": "Software Development Engineer",
+      "time": "Aug. 2022 - Aug. 2023",
+      "description": "Developed a ReactJS-based user interface, high-performance GraphQL APIs, and AWS data pipelines to optimize data flow and reduce processing time. Played a critical role in transitioning projects from prototype to production.",
+      "link": ""
+    }
+  ],
+  "projectData": [
+    {
+      "name": "Highly Available Cloud",
+      "description": "Developed a scalable backend with Node.js and Cloud SQL, automating deployments with Terraform and CI/CD pipelines.",
+      "link": ""
+    },
+    {
+      "name": "Smart Blood Bank",
+      "description": "Built a web application for blood inventory management using PHP and MySQL, integrating GPT API for donor communication.",
+      "link": ""
+    },
+    {
+      "name": "Fitvibe",
+      "description": "An activity-tracking app with secure two-factor authentication and an interactive UI built with React.js and Node.js.",
+      "link": ""
+    }
+  ],
+  "blogData": [],
+  "journeySteps": [
+    {
+      "heading": "Bachelor's in Computer Science",
+      "description": "Completed my undergraduate degree at JNTU, specializing in data structures and AI."
+    },
+    {
+      "heading": "Professional Experience",
+      "description": "Gained industry experience in software development, transitioning prototypes to production."
+    },
+    {
+      "heading": "Graduate Studies",
+      "description": "Currently pursuing a Master's degree at Northeastern University, deepening my expertise in information systems."
+    }
+  ]
+}
